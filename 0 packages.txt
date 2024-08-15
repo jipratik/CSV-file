@@ -1,6 +1,6 @@
-pip install scikit-learn
-pip install pandas
-pip install numpy
-pip install seaborn
-pip install matplotlib
-pip install pgmpy
+pip install scikit-learn              -8,9
+pip install pandas                    
+pip install numpy                      
+pip install seaborn                   -5,6
+pip install matplotlib                -5,6,8
+pip install pgmpy                     -7
